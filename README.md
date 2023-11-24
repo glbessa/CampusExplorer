@@ -6,7 +6,7 @@ Equipe:
 
 - Gabriel Leite Bessa
 
-- Yago Martins Pinto
+- Yago Martins Pintos
 
 ## Funcionamento
 
